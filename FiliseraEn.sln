@@ -25,6 +25,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Filisera_MKR", ".", "{04A77
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "57557"
+		SlnRelativePath = "..\Filisera_MKR\"
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "libraries", "..\libraries\", "{52847428-A462-4C77-AD4E-21FFD578CE8F}"
@@ -45,6 +46,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "libraries", "..\libraries\"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "57560"
+		SlnRelativePath = "..\libraries\"
 	EndProjectSection
 EndProject
 Global
