@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FiliseraEn", "..\Filisera - En\FiliseraEn.vbproj", "{3AF0475D-768E-45C3-8264-2256D4135E5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{BA0A9F62-2EF5-4766-BF2D-2471C0F499FE}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Filisera_MKR", ".", "{04A77EA1-9369-499C-8E8B-5D96DE4F540B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57557"
+		Debug.AspNetCompiler.PhysicalPath = "..\Filisera_MKR\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57557\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57557"
+		Release.AspNetCompiler.PhysicalPath = "..\Filisera_MKR\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57557\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57557"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "libraries", "..\libraries\", "{52847428-A462-4C77-AD4E-21FFD578CE8F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57560"
+		Debug.AspNetCompiler.PhysicalPath = "..\libraries\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57560\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57560"
+		Release.AspNetCompiler.PhysicalPath = "..\libraries\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57560\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57560"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF0475D-768E-45C3-8264-2256D4135E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF0475D-768E-45C3-8264-2256D4135E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF0475D-768E-45C3-8264-2256D4135E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF0475D-768E-45C3-8264-2256D4135E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A77EA1-9369-499C-8E8B-5D96DE4F540B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A77EA1-9369-499C-8E8B-5D96DE4F540B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A77EA1-9369-499C-8E8B-5D96DE4F540B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A77EA1-9369-499C-8E8B-5D96DE4F540B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{52847428-A462-4C77-AD4E-21FFD578CE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52847428-A462-4C77-AD4E-21FFD578CE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52847428-A462-4C77-AD4E-21FFD578CE8F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{52847428-A462-4C77-AD4E-21FFD578CE8F}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
